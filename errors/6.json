@@ -1,0 +1,5 @@
+{
+	"error": "java.lang.RuntimeException",
+	"message": "Extracted mod jars found, loading will NOT continue",
+	"solutions": [6]
+}

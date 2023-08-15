@@ -1,0 +1,8 @@
+{
+	"tags": [
+		"mods/forge",
+		"mods/optfine"
+	],
+	"description": "使用的 Forge 版本过高 / 过低 或 OptiFine 并未兼容该版本的 Forge，导致游戏崩溃。",
+	"link_to": "/client/mods.html#forge-与-optifine-兼容性问题导致的崩溃"
+}

@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "'java.lang.String com.mojang.blaze3d.systems.RenderSystem.getBackendDescription()'",
+	"solutions": [
+		15
+	]
+}

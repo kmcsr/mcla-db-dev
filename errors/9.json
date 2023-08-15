@@ -1,0 +1,7 @@
+{
+	"error": "joptsimple.MultipleArgumentsForOptionException",
+	"message": "Found multiple arguments for option gameDir, but you asked for only one",
+	"solutions": [
+		9
+	]
+}

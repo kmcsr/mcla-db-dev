@@ -1,0 +1,7 @@
+{
+	"error": "java.util.zip.ZipException",
+	"message": "zip END header not found",
+	"solutions": [
+		8
+	]
+}

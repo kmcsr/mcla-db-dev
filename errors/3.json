@@ -1,0 +1,5 @@
+{
+	"error": "java.lang.UnsupportedClassVersionError",
+	"message": "Unsupported class file major version",
+	"solutions": [3]
+}

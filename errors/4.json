@@ -1,0 +1,5 @@
+{
+	"error": "DuplicateModsFoundException",
+	"message": "Found a duplicate mod",
+	"solutions": [4]
+}

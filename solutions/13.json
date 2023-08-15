@@ -1,0 +1,8 @@
+{
+	"tags": [
+		"mods/liteloader",
+		"mods/forge"
+	],
+	"description": "由于 LiteLoader 与 Forge 冲突，游戏崩溃了。",
+	"link_to": "/client/mods.html#与-forge-冲突"
+}

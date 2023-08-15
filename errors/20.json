@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "'void net.minecraft.client.renderer.texture.SpriteContents.<init>(net.minecraft.resources.ResourceLocation",
+	"solutions": [
+		15
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"error": "net.fabricmc.loader.impl.discovery.ModResolutionException",
+	"message": "Mod discovery failed!",
+	"solutions": [
+		11
+	]
+}

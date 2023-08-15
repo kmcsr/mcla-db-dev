@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "'void net.minecraft.client.renderer.block.model.BakedQuad.<init>(int[], int, net.minecraft.core.Direction, net.minecraft.client.renderer.texture.TextureAtlasSprite, boolean, boolean)'",
+	"solutions": [
+		15
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"mods/forge"
+	],
+	"description": "可能由于使用一些启动器修改了 Forge 版本，当前实例的 Json 文件存在异常。",
+	"link_to": "/client/mods.html#json-问题"
+}

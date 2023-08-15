@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"mods"
+	],
+	"description": "由于 Mod 名称中含有特殊字符，游戏无法正常启动。",
+	"link_to": "/client/mods.html#mod-名称含有特殊字符"
+}

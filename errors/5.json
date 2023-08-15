@@ -1,0 +1,5 @@
+{
+	"error": "java.lang.RuntimeException",
+	"message": "Invalid id * - maximum id range exceeded",
+	"solutions": [5]
+}

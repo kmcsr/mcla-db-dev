@@ -1,0 +1,7 @@
+{
+	"error": "org.spongepowered.asm.service.ServiceInitialisationException",
+	"message": "ModLauncher is not available",
+	"solutions": [
+		13
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"error": "net.fabricmc.loader.impl.FormattedException",
+	"message": "Mod resolution encountered an incompatible mod set!",
+	"solutions": [
+		12
+	]
+}

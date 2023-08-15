@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'",
+	"solutions": [
+		15
+	]
+}

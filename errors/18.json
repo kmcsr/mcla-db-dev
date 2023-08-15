@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "'void net.minecraft.server.level.DistanceManager",
+	"solutions": [
+		15
+	]
+}

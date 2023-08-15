@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoSuchMethodError",
+	"message": "net.minecraft.world.server.ChunkManager$ProxyTicketManager.shouldForceTicks(J)Z",
+	"solutions": [
+		14
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"error": "java.lang.IllegalArgumentException",
+	"message": "Invalid module name: '' is not a Java identifier",
+	"solutions": []
+}

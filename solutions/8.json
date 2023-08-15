@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"mods"
+	],
+	"description": "可能在下载 Mod 文件时出现一些意外，导致 Mod 文件读取时出错。",
+	"link_to": "/client/mods.html#mod-文件损坏"
+}

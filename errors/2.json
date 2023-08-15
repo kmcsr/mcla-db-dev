@@ -1,0 +1,5 @@
+{
+	"error": "java.lang.IllegalStateException",
+	"message": "GLFW error before init: *Cocoa: Failed to find service port for display",
+	"solutions": [2]
+}
