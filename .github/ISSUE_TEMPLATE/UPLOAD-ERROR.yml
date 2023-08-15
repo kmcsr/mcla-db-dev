@@ -1,0 +1,36 @@
+
+This is a **TODO** template, pls leave it alone
+
+name: "Upload Error"
+description: "Upload unknown error | 上传未知错误"
+title: "[UPLOAD-ERROR]: "
+labels: 
+  - upload-error
+
+body:
+  - type: input
+    id: jerror
+    attributes:
+      label: "=======> Java Error and Message | Java 错误及其信息"
+      description: "Copy and paste the java error and it's message, leave it empty if it's not a java error"
+      placeholder: "java.lang.Exception: Example error message..."
+  - type: textarea
+    id: logs
+    attributes:
+      label: "=======> Logs | 日志"
+      description: "Copy and paste or upload the logs and/or crashreport"
+      placeholder: 日志...
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: dropdown
+    attributes:
+      label: "=======> Platfrom | 平台"
+      multiple: true
+      options:
+        - Client / 客户端
+        - Server / 服务端
+        - Modded
+    validations:
+      required: true

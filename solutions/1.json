@@ -1,0 +1,5 @@
+{
+	"tags": ["macos"],
+	"description": "macOS 下存在 .DS_Store 文件导致报错",
+	"link_to": "/client/system.html#macos-下存在-ds-store-文件导致报错"
+}

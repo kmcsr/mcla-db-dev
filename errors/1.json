@@ -1,0 +1,5 @@
+{
+	"error": "net.minecraft.util.ResourceLocationException",
+	"message": "Non [a-z0-9_.-] character in namespace of location: .DS_Store",
+	"solutions": [1]
+}
