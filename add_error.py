@@ -4,7 +4,7 @@ import json
 import os
 import re
 
-jerror_matcher = re.compile(r'^([\w\d$_]+(?:\.[\w\d$_]+)*):\s+(.*)$')
+jerror_matcher = re.compile(r'^(\*\.[\w\d$_]+|[\w\d$_]+(?:\.[\w\d$_]+)*):\s+(.*)$')
 
 version_info: dict = {}
 
