@@ -30,7 +30,10 @@
     	// 解决方案ID列表
     	"solutions": [
     		1
-    	]
+    	],
+        // [可选] 附属脚本ID
+        // 用于分析复杂错误(如: fabric mod缺失错误), 以及提供更多附加信息(如: 提供mod下载链接)
+        // "scripts": 1
     }
     ```
 
@@ -49,3 +52,15 @@
     	"link_to": "/client/system.html#macos-下存在-ds-store-文件导致报错"
     }
     ````
+<!-- TODO:
+#### `scripts/{id}.mjs`
+- 提供对应solution的附加信息
+- 支持的事件:
+    - `afterAnalyze`: 解析附加信息
+- 例子:
+    ```js
+    export function afterAnalyze(error){
+        return info
+    }
+    ```
+ -->

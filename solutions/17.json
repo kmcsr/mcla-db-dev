@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"*"
+	],
+	"description": "由于内存不足，游戏无法继续运行。",
+	"link_to": "/client/system.html#内存问题"
+}

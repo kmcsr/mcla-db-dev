@@ -1,0 +1,7 @@
+{
+	"error": "java.util.zip.ZipException",
+	"message": "invalid distance too far back",
+	"solutions": [
+		16
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"error": "net.minecraft.util.crash.CrashException",
+	"message": "Loading NBT data",
+	"solutions": [
+		16
+	]
+}
