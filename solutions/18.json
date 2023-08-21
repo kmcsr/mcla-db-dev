@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"mod/fabric"
+	],
+	"description": "由于 mod 需要的前置 mod 不存在或版本不匹配，导致游戏无法启动",
+	"link_to": "/client/mods.html#缺少前置-2"
+}
