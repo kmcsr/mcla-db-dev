@@ -1,0 +1,7 @@
+{
+	"error": "org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException",
+	"message": "No candidates were found matching",
+	"solutions": [
+		19
+	]
+}
