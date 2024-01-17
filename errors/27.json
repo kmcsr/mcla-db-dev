@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.NoClassDefFoundError",
+	"message": "net/minecraft/client/ *",
+	"solutions": [
+		20
+	]
+}

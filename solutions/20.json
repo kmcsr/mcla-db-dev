@@ -1,0 +1,8 @@
+{
+	"tags": [
+		"mods/forge",
+		"server"
+	],
+	"description": "在服务端运行仅客户端模组",
+	"link_to": "/server/mods.html#在服务端运行仅客户端模组"
+}
