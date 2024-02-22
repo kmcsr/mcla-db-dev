@@ -3,6 +3,8 @@
 
 该仓库保存了结构化后的Minecraft错误及其解决方案
 
+该仓库正在开发中, 结构/API不保证稳定
+
 ### Schema
 
 #### `version.json`
