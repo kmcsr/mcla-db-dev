@@ -1,0 +1,7 @@
+{
+	"error": "java.lang.RuntimeException",
+	"message": "Attempted to load class net/minecraft/client/ *",
+	"solutions": [
+		20
+	]
+}

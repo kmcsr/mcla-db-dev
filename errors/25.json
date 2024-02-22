@@ -1,6 +1,6 @@
 {
-	"error": "",
-	"message": "java.lang.OutOfMemoryError:",
+	"error": "java.lang.OutOfMemoryError",
+	"message": "",
 	"solutions": [
 		17
 	]
