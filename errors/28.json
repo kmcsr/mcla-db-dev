@@ -1,6 +1,6 @@
 {
 	"error": "java.lang.RuntimeException",
-	"message": "Attempted to load class net/minecraft/client/ *",
+	"message": "Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER",
 	"solutions": [
 		20
 	]
