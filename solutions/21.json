@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"server"
+	],
+	"description": "服务器 1 tick 执行时间过长导致崩溃",
+	"link_to": "/server/shared#_1-tick-执行时间过长"
+}
