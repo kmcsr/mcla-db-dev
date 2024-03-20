@@ -1,6 +1,6 @@
 {
 	"error": "java.lang.Error",
-	"message": "Watchdog",
+	"message": "ServerHangWatchdog *",
 	"solutions": [
 		21
 	]
