@@ -3,5 +3,6 @@
 		"mods/fabric"
 	],
 	"description": "由于两个或多个 Mod 互相冲突，导致游戏无法正常运行。",
-	"link_to": "/client/mods.html#mod-冲突"
+	"link_to": "/client/mods.html#mod-冲突",
+	"addition": "`${data.}`"
 }
