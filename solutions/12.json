@@ -4,5 +4,5 @@
 	],
 	"description": "由于两个或多个 Mod 互相冲突，导致游戏无法正常运行。",
 	"link_to": "/client/mods.html#mod-冲突",
-	"addition": "`<ul><li>加载失败模组: <code>${data.mod1}</code></li><li>冲突方法: <code>${data.method}</code></li><li>冲突模组: <code>${data.mod2}</code></li>`"
+	"addition": "`<ul><li>加载失败模组: <code>${data.mod1}</code></li><li>冲突方法: <code>${data.method}</code></li><li>冲突模组: <code>${data.mod2}</code></li></ul>`"
 }
